@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Remote",
+        "location": "Bangalore, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "080-1234-5678",
+            "email": "info@gmail.com",
+            "address": "Koramangala, Bangalore, India"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co/Ky772vG/netflix.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "Mumbai, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "022-1234-5678",
+            "email": "info@gmail.com",
+            "address": "Andheri, Mumbai, India"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co/ydpMNFM/Tesla-01.png",
+        "job_title": "Software Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Hyderabad, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "040-1234-5678",
+            "email": "info@gmail.com",
+            "address": "Banjara Hills, Hyderabad, India"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+        "job_title": "Software Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "Chennai, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "044-1234-5678",
+            "email": "info@gmail.com",
+            "address": "T. Nagar, Chennai, India"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/ydpMNFM/Tesla-01.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Remote",
+        "location": "Pune, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "020-1234-5678",
+            "email": "info@gmail.com",
+            "address": "Koregaon Park, Pune, India"
+        }
+    },
+    {
+        "id": 6,
+        "logo": "https://i.ibb.co/Ky772vG/netflix.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Remote",
+        "location": "Delhi, India",
+        "job_type": "Full Time",
+        "salary": "10-15 LPA",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "011-1234-5678",
+            "email": "info@gmail.com",
+            "address": "Connaught Place, Delhi, India"
+        }
+    }
+]

@@ -1,17 +1,18 @@
 import React from 'react';
 import Header from './Header/Header';
 import { Outlet } from 'react-router-dom';
-import Button from './Button/Button';
+import Footer from './Footer/Footer';
 
 const Root = () => {
     return (
         <>
-
             <Header />
-            <Outlet />
-
-
-            <p>Footer</p>
+            <div className="min-h-[calc(126.5vh)]">
+                <Outlet />
+            </div>
+            <div className='bg-[#1A1919]'>
+                <Footer />
+            </div>
         </>
     );
 };

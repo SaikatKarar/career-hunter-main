@@ -11,8 +11,8 @@ const Hero = () => {
                 <p className='py-4 text-[#757575]'>Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.</p>
                 <Button>Get Started</Button>
             </div>
-            <div className='w-full lg:max-w-lg lg:shrink-0'>
-                <img src={userImage} alt="" className='' />
+            <div className="w-full lg:max-w-lg lg:shrink-0">
+                <img src={userImage} alt="" className="w-full h-auto lg:max-w-full" />
             </div>
         </div>
     );

@@ -37,8 +37,8 @@ const Header = () => {
                 key={item.id}
                 to={item.url}
                 className={(e) => [
-                  e.isActive ? "text-red-200 font-bold" : "",
-                  "block relative text-lg text-[#191919]/70 transition-colors hover:text-color-1",
+                  e.isActive ? "text-[#1A1919] font-extrabold" :
+                    "block relative text-lg text-[#191919]/70 transition-colors",
                   item.onlyMobile ? "lg:hidden" : "",
                   "px-6 py-6 md:py-8 lg:-mr-0.25 lg:text-base lg:font-semibold"
                 ].filter(Boolean).join(" ")}

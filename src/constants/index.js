@@ -7,32 +7,37 @@ import chip from "../assets/icons/chip.png";
 export const navigation = [
     {
         id: "0",
+        title: "Home",
+        url: "/",
+    },
+    {
+        id: "1",
         title: "Statistics",
         url: "/statistics",
     },
     {
-        id: "1",
+        id: "2",
         title: "Applied Jobs",
         url: "/applied",
     },
     {
-        id: "2",
+        id: "3",
         title: "Blog",
         url: "/blog",
     },
     {
-        id: "3",
+        id: "4",
         title: "Roadmap",
         url: "/roadmap",
     },
     {
-        id: "4",
+        id: "5",
         title: "New account",
         url: "/signup",
         onlyMobile: true,
     },
     {
-        id: "5",
+        id: "6",
         title: "Sign in",
         url: "/login",
         onlyMobile: true,
